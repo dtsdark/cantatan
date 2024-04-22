@@ -1,2 +1,0 @@
-# cantatan
-id-DanaCatatan
